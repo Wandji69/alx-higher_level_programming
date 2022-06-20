@@ -1,2 +1,2 @@
 #!/usr/bin/
-export $PYCODE
+python $PYCODE

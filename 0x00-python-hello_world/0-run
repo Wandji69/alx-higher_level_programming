@@ -1,2 +1,2 @@
 #!/usr/bin/
-export $PYFILE
+python $PYFILE

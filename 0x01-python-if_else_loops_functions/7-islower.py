@@ -2,6 +2,6 @@
 def islower(c):
     i = ord(c)
     if i == 123 or i >= 97:
-        print("{}=>lower".format(str(c)))
+        print("{} => lower".format(str(c)))
     else:
-        print("{}=>upper".format(str(c)))
+        print("{} => upper".format(str(c)))

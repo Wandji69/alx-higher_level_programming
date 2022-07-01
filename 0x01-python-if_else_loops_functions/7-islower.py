@@ -5,8 +5,3 @@ def islower(c):
         print("{} => lower".format(c))
     else:
         print("{} => upper".format(str(c)))
-
-
-islower('a')
-islower('4')
-islower('H')
